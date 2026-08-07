@@ -1,5 +1,5 @@
 <h1 align="center">Ali Emre Ünal</h1>
-<h4 align="center">IT Professional & Developer <em>Bilgi İşlem Uzmanı & Geliştirici</em></h4>
+<h4 align="center">IT Professional & Developer<em>/ Bilgi İşlem Uzmanı & Geliştirici</em></h4>
 
 <p align="center">
   Building systems and automating workflows beyond standard IT support.
