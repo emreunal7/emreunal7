@@ -16,9 +16,9 @@
 
 ### 🚀 About / Hakkımda
 
-🇬🇧 I'm currently working as an IT Helpdesk at **Sözcü** & **Tavır**, and beyond the IT support processes of **Tavır Gazetesi**, I build systems and develop automation scripts. I am also currently studying Computer Programming at İstanbul Kültür Üniversitesi. My day-to-day operations involve managing the network infrastructure with **Active Directory**, configuring POP3 mail servers, and developing **Python** software to automate editorial file transfers. I also utilize platforms like Netlify and Google Cloud to deploy my projects.
+🇬🇧 I'm currently working as an IT Helpdesk at **Sözcü** & **Tavır**, and beyond the IT support processes of **Tavır Gazetesi**, I build systems and develop automation scripts. I am also currently studying Computer Programming at İstanbul Kültür Üniversitesi. My day-to-day operations involve managing the network infrastructure with **Active Directory**, and developing **Python** software to automate editorial file transfers. I also utilize platforms like Netlify and Google Cloud to deploy my projects.
 
-🇹🇷 Şu an **Sözcü** & **Tavır** IT Helpdesk olarak çalışıyor ve **Tavır Gazetesi**'nin IT destek süreçlerinin ötesinde, sistemler kuruyor ve otomasyon scriptleri geliştiriyorum. Aynı zamanda İstanbul Kültür Üniversitesi'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük operasyonlarım arasında **Active Directory** ile ağ altyapısını yönetmek, POP3 mail sunucularını yapılandırmak ve editoryal dosya transferlerini otomatize eden **Python** yazılımları geliştirmek yer alıyor. Ayrıca projelerimi yayınlamak için Netlify ve Google Cloud gibi platformları kullanıyorum.
+🇹🇷 Şu an **Sözcü** & **Tavır** IT Helpdesk olarak çalışıyor ve **Tavır Gazetesi**'nin IT destek süreçlerinin ötesinde, sistemler kuruyor ve otomasyon scriptleri geliştiriyorum. Aynı zamanda İstanbul Kültür Üniversitesi'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük operasyonlarım arasında **Active Directory** ile ağ altyapısını yönetmek, editoryal dosya transferlerini otomatize eden **Python** yazılımları geliştirmek yer alıyor. Ayrıca projelerimi yayınlamak için Netlify ve Google Cloud gibi platformları kullanıyorum.
 
 ---
 
