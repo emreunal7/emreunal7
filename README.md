@@ -2,12 +2,6 @@
 <h4 align="center">Software Engineer / Computer Programmer <em>/ Yazılımcı & Bilgisayar Programcısı</em></h4>
 
 <p align="center">
-  Building newsroom systems, automation scripts, and scalable backends.
-  <br>
-  Haber merkezi sistemleri kuruyor, otomasyon yazılımları ve ölçeklenebilir altyapılar geliştiriyorum.
-</p>
-
-<p align="center">
   Building newsroom systems, automation scripts and managing IT infrastructure for national newspapers.
   <br>
   Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.
