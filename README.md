@@ -4,7 +4,7 @@
 <p align="center">
   🇬🇧  Building newsroom systems, automation scripts and managing IT infrastructure for national newspapers.
   <br>
-  🇹🇷  Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.
+  🇹🇷   Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.
 </p>
 
 ---
