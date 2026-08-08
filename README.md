@@ -1,24 +1,25 @@
 <h1 align="center">Ali Emre Ünal</h1>
-<h4 align="center">IT Professional & Developer <em>/ Bilgi İşlem Uzmanı & Geliştirici</em></h4>
+<h4 align="center">Software Engineer / Computer Programmer <em>/ Yazılımcı & Bilgisayar Programcısı</em></h4>
 
 <p align="center">
-  Building systems and automating workflows beyond standard IT support.
+  Building newsroom systems, automation scripts, and scalable backends.
   <br>
-  Standart IT destek süreçlerinin ötesinde sistemler kuruyor ve iş akışlarını otomatize ediyorum.
+  Haber merkezi sistemleri kuruyor, otomasyon yazılımları ve ölçeklenebilir altyapılar geliştiriyorum.
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail" alt="Email"></a>
+  Building newsroom systems, automation scripts and managing IT infrastructure for national newspapers.
+  <br>
+  Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.
 </p>
 
 ---
 
 ### 🚀 About / Hakkımda
 
-🇬🇧 I'm currently working as an IT Helpdesk at **Sözcü** & **Tavır**, and beyond the IT support processes of **Tavır Gazetesi**, I build systems and develop automation scripts. I am also currently studying Computer Programming at İstanbul Kültür Üniversitesi. My day-to-day operations involve managing the network infrastructure with **Active Directory**, and developing **Python** software to automate editorial file transfers. I also utilize platforms like Netlify and Google Cloud to deploy my projects.
+🇬🇧 I'm a **Software Engineer / Computer Programmer** working at **Sözcü & Tavır**. Beyond system and infrastructure operations, I design core software solutions, build newsroom automations, and manage backend workflows. I am also currently studying Computer Programming at İstanbul Kültür Üniversitesi. My day-to-day software engineering involves writing asynchronous Python microservices, developing file transfer automations, building internal tools, and deploying projects via Github
 
-🇹🇷 Şu an **Sözcü** & **Tavır** IT Helpdesk olarak çalışıyor ve **Tavır Gazetesi**'nin IT destek süreçlerinin ötesinde, sistemler kuruyor ve otomasyon scriptleri geliştiriyorum. Aynı zamanda İstanbul Kültür Üniversitesi'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük operasyonlarım arasında **Active Directory** ile ağ altyapısını yönetmek, editoryal dosya transferlerini otomatize eden **Python** yazılımları geliştirmek yer alıyor. Ayrıca projelerimi yayınlamak için Netlify ve Google Cloud gibi platformları kullanıyorum.
+🇹🇷 Şu an **Sözcü & Tavır** bünyesinde **Yazılımcı / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde, editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda İstanbul Kültür Üniversitesi'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük yazılım geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak, kurum içi araçlar geliştirmek ve projelerimi Github üzerinde yayınlamak yer alıyor.
 
 ---
 
@@ -51,4 +52,17 @@
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) 
 
 ---
+
+### 🚀 What I Build / Neler Geliştiriyorum
+
+> Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
+> *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
+
+📰 **Tavır Gazetesi Infrastructure & Core Routing** 
+🇬🇧 Built primary infrastructure routing frameworks and localized server configurations to guarantee uninterrupted print cycle timelines. 
+🇹🇷 Tavır Gazetesi'nin yayın hayatı için birincil altyapı yönlendirme sistemlerini ve yerel sunucu yapılandırmalarını geliştirerek kesintisiz baskı döngüsü sağladım. `Active Directory`
+
+⚙️ **Automated Publication Page Pipeline** 
+🇬🇧 Programmed an asynchronous Python monitoring tool to automatically validate, process, and route incoming newspaper publication files across servers.
+🇹🇷 Kurumsal sunucularda gelen gazete sayfalarını otomatik olarak doğrulayan, işleyen ve yönlendiren asenkron bir Python otomasyon yazılımı geliştirdim. `Python` • `AsyncIO`
 
