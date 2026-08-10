@@ -6,8 +6,8 @@
 
 ---
 
-### 📰 **Building newsroom systems, automation scripts & managing IT infrastructure for national newspapers.**
-*Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.*
+### 📰 **Building newsroom systems, automation scripts & engineering IT solutions for national newspapers.**
+*Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve teknolojik çözümler üretiyorum.*
 
 </div>
 
