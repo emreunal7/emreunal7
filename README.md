@@ -6,7 +6,7 @@
 
 ---
 
-<div style="border-left: 3px solid #30363d; padding-left: 12px; text-align: center;">
+<div style="border-left: 3px solid #30363d; padding-left: 12px; display: inline-block; text-align: center;">
 
 ### 📰 **Building newsroom systems, automation scripts & engineering IT solutions for national newspapers.**
 *Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve teknolojik çözümler üretiyorum.*
@@ -45,10 +45,10 @@
 
 ## ⚙️ What I Build / Neler Geliştiriyorum
 
-<div style="border-left: 4px solid #30363d; padding-left: 15px;">
+<div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
 
-🔒 *Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.*  
-🔒 *Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıklarını özetledim.*
+🔒 **Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.**  
+🔒 **Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıklarını özetledim.**
 
 </div>
 
