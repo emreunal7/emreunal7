@@ -45,19 +45,15 @@
 
 ### 🚀 What I Build / Neler Geliştiriyorum
 
-> Most of this lives in private/corporate repositories — so here's what it does, rather than a link.
-> <br>
+> Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
 > *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
-<br>
+🎧 **IT-Line — In-House Support & Ticketing System** 
+🇬🇧 Actively developing a client-server helpdesk ecosystem (**IT-Line**) allowing users to submit issues via screenshots and voice notes. Integrating RustDesk for seamless remote desktop access and optimizing local IT support workflows.
+🇹🇷 Kullanıcıların ekran görüntüsü ve ses kaydı ile talep iletebildiği **IT-Line** helpdesk uygulaması üzerinde çalışıyorum. Hızlı uzak masaüstü bağlantısı için RustDesk entegrasyonu ve IT destek süreçlerini hızlandıran altyapı optimizasyonları ile ilgileniyorum.
+`Python` • `PyQt6` • `SQL`
 
-### 🎧 IT-Line — In-House Support & Ticketing System
-* 🇬🇧 Designed and developed an in-house Helpdesk application (**IT-Line**) supporting screenshot and voice message attachments for user issue submission. Integrated RustDesk for quick remote desktop access and optimized client-server performance for seamless IT support operations.
-* 🇹🇷 Kullanıcıların ekran görüntüsü ve ses kaydı ekleyerek talep oluşturabildiği **IT-Line** helpdesk uygulamasını geliştirdim. Hızlı uzak masaüstü bağlantısı için RustDesk entegrasyonunu sağlayarak ve sistem optimizasyonlarını gerçekleştirerek IT destek süreçlerini hızlandırdım.
-
----
-
-### ⚙️ Automated Publication Page Pipeline
-* 🇬🇧 Programmed an asynchronous Python monitoring tool to automatically validate, process, and route incoming newspaper publication files across production servers.
-* 🇹🇷 Kurumsal sunucularda gelen gazete sayfalarını otomatik olarak doğrulayan, işleyen ve yönlendiren asenkron bir Python otomasyon yazılımı geliştirdim.
-* `Python` • `AsyncIO`
+⚙️ **AutoSync — Audio & Text Synchronization**
+🇬🇧 Building Python-based automation tools leveraging AsyncIO and Whisper to synchronize audio/transcription data and streamline media/editorial pipelines.
+🇹🇷 Haber merkezi iş akışlarında ses ve metin verilerini senkronize eden, AsyncIO ve Whisper tabanlı Python araçları ve medya otomasyonları geliştiriyorum.
+`Python` • `AsyncIO` • `Whisper`
