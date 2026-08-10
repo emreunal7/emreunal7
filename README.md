@@ -43,14 +43,10 @@
 
 ---
 
-## ⚙️ What I Build / Neler Geliştiriyorum
+### 🚀 What I Build / Neler Geliştiriyorum
 
-<div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
-
-🔒 **Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.**  
-🔒 **Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıklarını özetledim.**
-
-</div>
+> Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
+> *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
 <br>
 
