@@ -45,7 +45,8 @@
 
 ### 🚀 What I Build / Neler Geliştiriyorum
 
-> Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
+> Most of this lives in private/corporate repositories — so here's what it does, rather than a link.
+> <br>
 > *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
 <br>
