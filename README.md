@@ -52,9 +52,9 @@
 > Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
 > *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
-📰 **Tavır Gazetesi Infrastructure & Core Routing** 
-🇬🇧 Built primary infrastructure routing frameworks and localized server configurations to guarantee uninterrupted print cycle timelines. 
-🇹🇷 Tavır Gazetesi'nin yayın hayatı için birincil altyapı yönlendirme sistemlerini ve yerel sunucu yapılandırmalarını geliştirerek kesintisiz baskı döngüsü sağladım. `Active Directory`
+🎧 **IT-Line — In-House Support & Ticketing System** 
+🇬🇧 Designed and developed an in-house Helpdesk application (IT-Line) supporting screenshot and voice message attachments for user issue submission. Integrated RustDesk for quick remote desktop access and optimized client-server performance for seamless IT support operations.
+🇹🇷 Kullanıcıların ekran görüntüsü ve ses kaydı ekleyerek talep oluşturabildiği IT-Line helpdesk uygulamasını geliştirdim. Hızlı uzak masaüstü bağlantısı için RustDesk entegrasyonunu sağlayarak ve sistem optimizasyonlarını gerçekleştirerek IT destek süreçlerini hızlandırdım.
 
 ⚙️ **Automated Publication Page Pipeline** 
 🇬🇧 Programmed an asynchronous Python monitoring tool to automatically validate, process, and route incoming newspaper publication files across servers.
