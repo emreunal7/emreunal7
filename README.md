@@ -1,27 +1,27 @@
 <div align="center">
 
-# 🚀 Ali Emre Ünal
-### **Software Programmer & Systems Developer**
+# ⚡ Ali Emre Ünal
+### 🚀 **Software Programmer & Systems Developer**
 *Yazılım & Bilgisayar Programcısı*
 
 ---
 
-> 📰 **Building newsroom systems, automation scripts, and managing IT infrastructure for national newspapers.**  
-> *Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.*
+### 📰 **Building newsroom systems, automation scripts & managing IT infrastructure for national newspapers.**
+*Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve altyapı yönetiyorum.*
 
 </div>
 
 <br>
 
-### 👨‍💻 About / Hakkımda
+## 👨‍💻 About / Hakkımda
 
-> 🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
->
-> 🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
+🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
+
+🇹🇷 **SSözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities / Teknolojiler
+## 🛠️ Tech Stack & Capabilities / Teknolojiler
 
 | Kategori | Teknolojiler & Araçlar |
 | :--- | :--- |
@@ -33,20 +33,20 @@
 
 ---
 
-### ⚙️ What I Build / Neler Geliştiriyorum
+## ⚙️ What I Build / Neler Geliştiriyorum
 
-> 🔒 *Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.*  
-> 🔒 *Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıkları ve mimarileri özetlenmiştir.*
+🔒 *Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.*  
+🔒 *Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıklarını özetledim.*
 
 <br>
 
-#### 🎧 IT-Line — In-House Support & Ticketing System
+### 🎧 IT-Line — In-House Support & Ticketing System
 * 🇬🇧 Designed and developed an in-house Helpdesk application (**IT-Line**) supporting screenshot and voice message attachments for user issue submission. Integrated RustDesk for quick remote desktop access and optimized client-server performance for seamless IT support operations.
 * 🇹🇷 Kullanıcıların ekran görüntüsü ve ses kaydı ekleyerek talep oluşturabildiği **IT-Line** helpdesk uygulamasını geliştirdim. Hızlı uzak masaüstü bağlantısı için RustDesk entegrasyonunu sağlayarak ve sistem optimizasyonlarını gerçekleştirerek IT destek süreçlerini hızlandırdım.
 
 ---
 
-#### ⚙️ Automated Publication Page Pipeline
+### ⚙️ Automated Publication Page Pipeline
 * 🇬🇧 Programmed an asynchronous Python monitoring tool to automatically validate, process, and route incoming newspaper publication files across production servers.
 * 🇹🇷 Kurumsal sunucularda gelen gazete sayfalarını otomatik olarak doğrulayan, işleyen ve yönlendiren asenkron bir Python otomasyon yazılımı geliştirdim.
 * `Python` • `AsyncIO`
