@@ -15,9 +15,9 @@
 
 ### 👨‍💻 About / Hakkımda
 
-> 🇬🇧 **Software Programmer** at **Sözcü & Tavır**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
+> 🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
 >
-> 🇹🇷 **Sözcü & Tavır** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
+> 🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
 
 ---
 
