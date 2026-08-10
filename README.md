@@ -8,8 +8,8 @@
 
 <div style="border-left: 3px solid #30363d; padding-left: 12px; display: inline-block; text-align: center;">
 
-### 📰 **Building newsroom systems, automation scripts & engineering IT solutions for national newspapers.**
-*Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve teknolojik çözümler üretiyorum.*
+### 📰 **Focusing on newsroom software solutions, audio/text sync tools & automated workflows for national media.**
+*Ulusal medya için haber merkezi yazılım çözümleri, ses/metin senkronizasyon araçları ve otomatik iş akışları üzerine çalışıyorum.*
 
 </div>
 
