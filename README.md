@@ -31,11 +31,11 @@
 
 <div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
 
-🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
+🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow involves developing various back-end services, creating system automations, building internal tools, and deploying scalable projects via GitHub.
 
 <br>
 
-🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi araçlar geliştirmek yer alıyor.
+🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılımcı / Bilgisayar Programcısı** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde çeşitli backend servisleri kodlamak, sistem otomasyonları oluşturmak, kurum içi araçlar tasarlamak ve projeleri GitHub üzerinden yayınlamak yer alıyor.
 
 </div>
 ---
