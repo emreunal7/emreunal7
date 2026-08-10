@@ -17,18 +17,16 @@
 
 <br>
 
-## 👨‍💻 About / Hakkımda
+<h1 align="center">Ali Emre Ünal</h1>
+<h4 align="center">Software Programmer / Bilgisayar Programcısı & Yazılımcı</h4>
 
-<div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
+---
 
-🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
+### 🚀 About / Hakkımda
 
-<br>
+🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and developing internal tools.
 
-🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
-
-</div>
-
+🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon scriptleri yazıyor, backend iş akışları tasarlıyor ve özel kurum içi yazılım çözümleri geliştiriyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve yazılım araçları geliştirmek yer alıyor.
 ---
 
 ## 🛠️ Tech Stack & Capabilities / Teknolojiler
