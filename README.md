@@ -17,16 +17,6 @@
 
 <br>
 
-<h1 align="center">Ali Emre Ünal</h1>
-<h4 align="center">Software Programmer / Bilgisayar Programcısı & Yazılımcı</h4>
-
----
-
-<h1 align="center">Ali Emre Ünal</h1>
-<h4 align="center">Software Programmer / Bilgisayar Programcısı & Yazılımcı</h4>
-
----
-
 ## 👨‍💻 About / Hakkımda
 
 <div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
