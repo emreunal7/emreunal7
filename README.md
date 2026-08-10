@@ -6,8 +6,12 @@
 
 ---
 
-> 📰 **Building newsroom systems, automation scripts & engineering IT solutions for national newspapers.**  
-> *Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve teknolojik çözümler üretiyorum.*
+<div style="border-left: 3px solid #30363d; padding-left: 12px; text-align: center;">
+
+### 📰 **Building newsroom systems, automation scripts & engineering IT solutions for national newspapers.**
+*Ulusal gazeteler için haber merkezi sistemleri kuruyor, otomasyonlar yazıyor ve teknolojik çözümler üretiyorum.*
+
+</div>
 
 </div>
 
@@ -15,9 +19,15 @@
 
 ## 👨‍💻 About / Hakkımda
 
-> 🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
->
-> 🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
+<div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
+
+🇬🇧 **Software Programmer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer newsroom automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow revolves around writing asynchronous Python services, automating file transfers, and deploying scalable tools via GitHub.
+
+<br>
+
+🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde; editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak ve kurum içi çözümler geliştirmek yer alıyor.
+
+</div>
 
 ---
 
@@ -35,8 +45,12 @@
 
 ## ⚙️ What I Build / Neler Geliştiriyorum
 
-> 🔒 *Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.*  
-> 🔒 *Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıklarını özetledim.*
+<div style="border-left: 4px solid #30363d; padding-left: 15px;">
+
+🔒 *Most of these systems live in private/corporate repositories; below is a breakdown of their architecture and functions.*  
+🔒 *Bu çalışmaların çoğu özel/kurumsal repolardadır; aşağıda ne yaptıklarını özetledim.*
+
+</div>
 
 <br>
 
