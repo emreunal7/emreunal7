@@ -1,5 +1,5 @@
 <h1 align="center">Ali Emre Ünal</h1>
-<h4 align="center">Software Engineer / Computer Programmer <em>/ Yazılımcı & Bilgisayar Programcısı</em></h4>
+<h4 align="center">Software Programmer / Computer Programmer <em>/ Yazılım & Bilgisayar Programcısı</em></h4>
 
 <p align="center">
    Building newsroom systems, automation scripts and managing IT infrastructure for national newspapers.
@@ -11,9 +11,9 @@
 
 ### 🚀 About / Hakkımda
 
-🇬🇧 I'm a **Software Engineer / Computer Programmer** working at **Sözcü & Tavır**. Beyond system and infrastructure operations, I design core software solutions, build newsroom automations, and manage backend workflows. I am also currently studying Computer Programming at İstanbul Kültür Üniversitesi. My day-to-day software engineering involves writing asynchronous Python microservices, developing file transfer automations, building internal tools, and deploying projects via Github
+🇬🇧 I'm a **Software Programmer / Computer Programmer** working at **Sözcü & Tavır**. Beyond system and infrastructure operations, I design core software solutions, build newsroom automations, and manage backend workflows. I am also currently studying Computer Programming at İstanbul Kültür Üniversitesi. My day-to-day software engineering involves writing asynchronous Python microservices, developing file transfer automations, building internal tools, and deploying projects via Github
 
-🇹🇷 Şu an **Sözcü & Tavır** bünyesinde **Yazılımcı / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde, editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda İstanbul Kültür Üniversitesi'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük yazılım geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak, kurum içi araçlar geliştirmek ve projelerimi Github üzerinde yayınlamak yer alıyor.
+🇹🇷 Şu an **Sözcü & Tavır** bünyesinde **Yazılım / Bilgisayar Programcısı** olarak görev yapıyorum. Sistem ve altyapı operasyonlarının ötesinde, editoryal süreçleri hızlandıran yazılımlar geliştiriyor, haber merkezi otomasyonları kuruyor ve backend mimarilerini yönetiyorum. Aynı zamanda İstanbul Kültür Üniversitesi'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük yazılım geliştirme süreçlerimde asenkron Python servisleri yazmak, dosya transfer otomasyonları oluşturmak, kurum içi araçlar geliştirmek ve projelerimi Github üzerinde yayınlamak yer alıyor.
 
 ---
 
