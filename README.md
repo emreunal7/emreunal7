@@ -7,9 +7,9 @@
 ---
 
 <div style="border-left: 3px solid #30363d; padding-left: 12px; display: inline-block; text-align: center;">
-
-### 📰 **Focusing on newsroom software solutions, audio/text sync tools & automated workflows for national media.**
-*Ulusal medya için haber merkezi yazılım çözümleri, ses/metin senkronizasyon araçları ve otomatik iş akışları üzerine çalışıyorum.*
+  
+### ⚡ **Engineering system architectures, physical & cloud server operations, and backend automation pipelines.**
+*Fiziksel sunucu/ağ altyapılarından backend servislerine, asenkron otomasyonlardan kurumsal yazılımlara uçtan uca sistemler geliştiriyorum.*
 
 </div>
 
