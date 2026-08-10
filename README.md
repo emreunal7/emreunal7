@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ali Emre Ünal
+# Emre Ünal
 ### 🚀 **Software Programmer & Systems Developer**
 *Yazılım & Bilgisayar Programcısı*
 
