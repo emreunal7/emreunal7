@@ -28,6 +28,8 @@
 🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılımcı / Bilgisayar Programcısı** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde çeşitli backend servisleri kodlamak, sistem otomasyonları oluşturmak, kurum içi araçlar tasarlamak ve projeleri GitHub üzerinden yayınlamak yer alıyor.
 
 </div>
+
+---
 ### 🛠️ Tech Stack & Capabilities
 
 #### 💻 Languages & Scripting
