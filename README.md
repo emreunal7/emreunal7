@@ -29,7 +29,6 @@
 
 </div>
 ---
-
 ### 🛠️ Tech Stack & Capabilities
 
 <p align="center">
