@@ -28,24 +28,13 @@
 🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılımcı / Bilgisayar Programcısı** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde çeşitli backend servisleri kodlamak, sistem otomasyonları oluşturmak, kurum içi araçlar tasarlamak ve projeleri GitHub üzerinden yayınlamak yer alıyor.
 
 </div>
----
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Technical Competencies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,lua,bash,powershell" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,vite,postgres,mysql,sqlite" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,windows,grafana" />
-</p>
-
-<details>
-  <summary><b>⚙️ Infrastructure, Virtualization & Integrations</b></summary>
-  <br/>
-  
-  - **Virtualization & Systems:** Proxmox VE, VMware ESXi, Hyper-V, Windows Server & Active Directory
-  - **Frameworks & Core:** AsyncIO, FastAPI, Node.js, Vite
-  - **AI & Observability:** Anthropic Claude API, Grafana
-</details>
-
+- **Languages:** `Python` `TypeScript` `JavaScript` `Lua` `HTML5` `Bash` `PowerShell`
+- **Backend & Core:** ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi) ![AsyncIO](https://img.shields.io/badge/AsyncIO-111111?style=flat&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs) ![Vite](https://img.shields.io/badge/Vite-111111?style=flat&logo=vite)
+- **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat&logo=sqlite)
+- **SysAdmin & Virtualization:** ![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux) ![Proxmox](https://img.shields.io/badge/Proxmox-111111?style=flat&logo=proxmox) ![VMware](https://img.shields.io/badge/VMware-111111?style=flat&logo=vmware) ![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=flat&logo=windows)
+- **Monitoring & AI:** ![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat&logo=grafana) ![Claude](https://img.shields.io/badge/Claude_API-111111?style=flat&logo=anthropic)
 
 ### 🚀 What I Build / Neler Geliştiriyorum
 
