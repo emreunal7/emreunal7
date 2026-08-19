@@ -28,13 +28,39 @@
 🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılımcı / Bilgisayar Programcısı** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde çeşitli backend servisleri kodlamak, sistem otomasyonları oluşturmak, kurum içi araçlar tasarlamak ve projeleri GitHub üzerinden yayınlamak yer alıyor.
 
 </div>
-### 🛠️ Technical Competencies
+### 🛠️ Tech Stack & Capabilities
 
-- **Languages:** `Python` `TypeScript` `JavaScript` `Lua` `HTML5` `Bash` `PowerShell`
-- **Backend & Core:** ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi) ![AsyncIO](https://img.shields.io/badge/AsyncIO-111111?style=flat&logo=python) ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs) ![Vite](https://img.shields.io/badge/Vite-111111?style=flat&logo=vite)
-- **Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat&logo=sqlite)
-- **SysAdmin & Virtualization:** ![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux) ![Proxmox](https://img.shields.io/badge/Proxmox-111111?style=flat&logo=proxmox) ![VMware](https://img.shields.io/badge/VMware-111111?style=flat&logo=vmware) ![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=flat&logo=windows)
-- **Monitoring & AI:** ![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat&logo=grafana) ![Claude](https://img.shields.io/badge/Claude_API-111111?style=flat&logo=anthropic)
+#### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+#### 🚀 Frameworks & Runtime
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ☁️ Infrastructure & Virtualization
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57008?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_ESXi-607080?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 📊 Monitoring & AI Integrations
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 🚀 What I Build / Neler Geliştiriyorum
 
