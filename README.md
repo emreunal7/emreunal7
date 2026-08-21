@@ -79,8 +79,8 @@
 🇹🇷 Haber merkezi iş akışlarında ses ve metin verilerini senkronize eden, AsyncIO ve Whisper tabanlı Python araçları ve medya otomasyonları geliştiriyorum.
 `Python` • `AsyncIO` • `Whisper`
 
-### 🔹 NEXUS — Enterprise IT Asset & Internal Helpdesk Suite
-🇬🇧 A private enterprise web application designed for internal IT teams to delegate tasks, assign technical issues peer-to-peer, track hardware assets, and manage corporate knowledge base. Built with Next.js 16 (App Router), Prisma, and Tailwind CSS v4, featuring a modern glassmorphic UI and sub-second operational flows.
-🇹🇷 BT (IT) personelinin teknik sorunları birbirine atayabildiği, ekip içi görev dağılımını, donanım envanterini, personel zimmetlerini ve bilgi bankasını tek noktadan yöneten kapalı kaynak kurumsal web platformu. Next.js 16 (App Router), Prisma ve Tailwind CSS v4 mimarisiyle sıfır gecikme ve modern cam/saydam (glassmorphism) arayüz prensipleriyle geliştirildi.
+🔹 **NEXUS — Enterprise IT Asset & Internal Helpdesk Suite**
+🇬🇧 A private enterprise web application designed for internal IT teams to delegate tasks, assign technical issues peer-to-peer, track hardware assets, and manage corporate knowledge base.
+🇹🇷 BT (IT) personelinin teknik sorunları ve arıza kayıtlarını birbirine atayarak takip edebildiği, donanım envanterini, personel zimmetlerini ve kurumsal bilgi bankasını tek çatı altında toplayan kapalı kaynak kurumsal web platformu.
 
 `Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
