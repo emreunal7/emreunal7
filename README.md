@@ -69,19 +69,22 @@
 > Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
 > *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
-🎧 **IT-Line — In-House Support & Ticketing System** 
+🎧 **IT-Line — In-House Desktop Helpdesk & Remote Support Ecosystem** 
 <br>
-🇬🇧 Actively developing a client-server helpdesk ecosystem (**IT-Line**) allowing users to submit issues via screenshots and voice notes. Integrating RustDesk for seamless remote desktop access and optimizing local IT support workflows.
+🇬🇧 A client-server corporate desktop application enabling company employees to effortlessly submit IT support tickets with real-time screen captures and voice memos, featuring embedded RustDesk integration for instant remote desktop assistance.
 <br>
-🇹🇷 Kullanıcıların ekran görüntüsü ve ses kaydı ile talep iletebildiği **IT-Line** helpdesk uygulaması üzerinde çalışıyorum. Hızlı uzak masaüstü bağlantısı için RustDesk entegrasyonu ve IT destek süreçlerini hızlandıran altyapı optimizasyonları ile ilgileniyorum.
-`Python` • `PyQt6` • `SQL`
+🇹🇷 Şirket çalışanlarının anlık ekran görüntüleri ve ses kayıtlarıyla hızlıca IT destek talebi oluşturabildiği, yerleşik RustDesk entegrasyonu sayesinde BT ekibinin tek tıkla uzak masaüstü bağlantısı kurmasını sağlayan istemci-sunucu mimarili masaüstü uygulaması.
 
-⚙️ **AutoSync — Audio & Text Synchronization**
+`Python` • `PyQt6` • `SQL` • `RustDesk`
+
+⚙️ **AutoSync — Automated Media Processing & Audio-Text Synchronization Pipeline**
 <br>
-🇬🇧 Building Python-based automation tools leveraging AsyncIO and Whisper to synchronize audio/transcription data and streamline media/editorial pipelines.
+🇬🇧 An asynchronous media automation pipeline designed to ingest, process, and align broadcast audio streams with textual transcription data in real time, accelerating newsroom publishing cycles through AI-driven speech recognition, automated file monitoring, and background media orchestration.
 <br>
-🇹🇷 Haber merkezi iş akışlarında ses ve metin verilerini senkronize eden, AsyncIO ve Whisper tabanlı Python araçları ve medya otomasyonları geliştiriyorum.
-`Python` • `AsyncIO` • `Whisper`
+🇹🇷 Yayın ve haber merkezi iş akışlarındaki ses akışlarını yapay zekâ destekli konuşma tanıma modelleriyle metin verilerine dönüştürüp senkronize eden, dosya dizinlerini arka planda asenkron olarak izleyerek sayfa ve medya üretim süreçlerini otomatik ve sıfır gecikmeyle hızlandıran veri işleme hattı.
+
+`Python` • `AsyncIO` • `OpenAI Whisper` • `FFmpeg` • `Watchdog`
+
 
 🔹 **NEXUS — Enterprise IT Asset & Internal Helpdesk Suite**
 <br>
