@@ -73,6 +73,7 @@
 <br>
 🇬🇧 A client-server corporate desktop application enabling company employees to effortlessly submit IT support tickets with real-time screen captures and voice memos, featuring embedded RustDesk integration for instant remote desktop assistance.
 <br>
+<br>
 🇹🇷 Şirket çalışanlarının anlık ekran görüntüleri ve ses kayıtlarıyla hızlıca IT destek talebi oluşturabildiği, yerleşik RustDesk entegrasyonu sayesinde BT ekibinin tek tıkla uzak masaüstü bağlantısı kurmasını sağlayan istemci-sunucu mimarili masaüstü uygulaması.
 
 `Python` • `PyQt6` • `SQL` • `RustDesk`
@@ -80,6 +81,7 @@
 ⚙️ **AutoSync — Automated Media Processing & Audio-Text Synchronization Pipeline**
 <br>
 🇬🇧 An asynchronous media automation pipeline designed to ingest, process, and align broadcast audio streams with textual transcription data in real time, accelerating newsroom publishing cycles through AI-driven speech recognition, automated file monitoring, and background media orchestration.
+<br>
 <br>
 🇹🇷 Yayın ve haber merkezi iş akışlarındaki ses akışlarını yapay zekâ destekli konuşma tanıma modelleriyle metin verilerine dönüştürüp senkronize eden, dosya dizinlerini arka planda asenkron olarak izleyerek sayfa ve medya üretim süreçlerini otomatik ve sıfır gecikmeyle hızlandıran veri işleme hattı.
 
@@ -89,6 +91,7 @@
 🔹 **NEXUS — Enterprise IT Asset & Internal Helpdesk Suite**
 <br>
 🇬🇧 A private enterprise web platform built for internal IT departments to streamline peer-to-peer ticketing and task delegation, manage end-to-end hardware asset lifecycles, handle employee equipment assignments with printable handover protocols, and maintain a secure corporate knowledge base containing server credentials and documentation.
+<br>
 <br>
 🇹🇷 BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu.
 
