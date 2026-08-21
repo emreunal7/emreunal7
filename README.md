@@ -70,19 +70,23 @@
 > *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
 🎧 **IT-Line — In-House Support & Ticketing System** 
+<br>
 🇬🇧 Actively developing a client-server helpdesk ecosystem (**IT-Line**) allowing users to submit issues via screenshots and voice notes. Integrating RustDesk for seamless remote desktop access and optimizing local IT support workflows.
+<br>
 🇹🇷 Kullanıcıların ekran görüntüsü ve ses kaydı ile talep iletebildiği **IT-Line** helpdesk uygulaması üzerinde çalışıyorum. Hızlı uzak masaüstü bağlantısı için RustDesk entegrasyonu ve IT destek süreçlerini hızlandıran altyapı optimizasyonları ile ilgileniyorum.
 `Python` • `PyQt6` • `SQL`
 
 ⚙️ **AutoSync — Audio & Text Synchronization**
+<br>
 🇬🇧 Building Python-based automation tools leveraging AsyncIO and Whisper to synchronize audio/transcription data and streamline media/editorial pipelines.
+<br>
 🇹🇷 Haber merkezi iş akışlarında ses ve metin verilerini senkronize eden, AsyncIO ve Whisper tabanlı Python araçları ve medya otomasyonları geliştiriyorum.
 `Python` • `AsyncIO` • `Whisper`
 
 🔹 **NEXUS — Enterprise IT Asset & Internal Helpdesk Suite**
 <br>
-🇬🇧 A private enterprise web application designed for internal IT teams to delegate tasks, assign technical issues peer-to-peer, track hardware assets, and manage corporate knowledge base.
+🇬🇧 A private enterprise web platform built for internal IT departments to streamline peer-to-peer ticketing and task delegation, manage end-to-end hardware asset lifecycles, handle employee equipment assignments with printable handover protocols, and maintain a secure corporate knowledge base containing server credentials and documentation.
 <br>
-🇹🇷 BT (IT) personelinin teknik sorunları ve arıza kayıtlarını birbirine atayarak takip edebildiği, donanım envanterini, personel zimmetlerini ve kurumsal bilgi bankasını tek çatı altında toplayan kapalı kaynak kurumsal web platformu.
+🇹🇷 BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu.
 
 `Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
