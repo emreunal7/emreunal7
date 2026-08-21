@@ -81,6 +81,7 @@
 
 🔹 **NEXUS — Enterprise IT Asset & Internal Helpdesk Suite**
 🇬🇧 A private enterprise web application designed for internal IT teams to delegate tasks, assign technical issues peer-to-peer, track hardware assets, and manage corporate knowledge base.
+---
 🇹🇷 BT (IT) personelinin teknik sorunları ve arıza kayıtlarını birbirine atayarak takip edebildiği, donanım envanterini, personel zimmetlerini ve kurumsal bilgi bankasını tek çatı altında toplayan kapalı kaynak kurumsal web platformu.
 
 `Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
