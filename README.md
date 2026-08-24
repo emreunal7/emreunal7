@@ -69,37 +69,34 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-### 🗄️ Proprietary Architectures & Internal Tools
+### 💼 Corporate Systems & Production Deployments
 
 > Most of this lives in private/corporate repositories — so here's what it does, rather than a link.  
 > *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
 
-<details open>
-<summary><b>🎧 IT-Line — In-House Desktop Helpdesk & Remote Support Ecosystem</b> <code>Python</code> <code>PyQt6</code> <code>SQL</code> <code>RustDesk</code></summary>
-<br>
+---
 
-> 🇬🇧 A client-server corporate desktop application enabling company employees to effortlessly submit IT support tickets with real-time screen captures and voice memos, featuring embedded RustDesk integration for instant remote desktop assistance.
-> 
-> 🇹🇷 Şirket çalışanlarının anlık ekran görüntüleri ve ses kayıtlarıyla hızlıca IT destek talebi oluşturabildiği, yerleşik RustDesk entegrasyonu sayesinde BT ekibinin tek tıkla uzak masaüstü bağlantısı kurmasını sağlayan istemci-sunucu mimarili masaüstü uygulaması.
+#### 🎧 IT-Line — In-House Desktop Helpdesk & Remote Support Ecosystem
+`Python` • `PyQt6` • `SQL` • `RustDesk`
 
-</details>
+| 🇬🇧 English Specification | 🇹🇷 Türkçe Açıklama |
+| :--- | :--- |
+| A client-server corporate desktop application enabling company employees to effortlessly submit IT support tickets with real-time screen captures and voice memos, featuring embedded RustDesk integration for instant remote desktop assistance. | Şirket çalışanlarının anlık ekran görüntüleri ve ses kayıtlarıyla hızlıca IT destek talebi oluşturabildiği, yerleşik RustDesk entegrasyonu sayesinde BT ekibinin tek tıkla uzak masaüstü bağlantısı kurmasını sağlayan istemci-sunucu mimarili masaüstü uygulaması. |
 
-<details open>
-<summary><b>⚙️ AutoSync — Automated Media Processing & Audio-Text Synchronization Pipeline</b> <code>Python</code> <code>AsyncIO</code> <code>OpenAI Whisper</code> <code>FFmpeg</code> <code>Watchdog</code></summary>
-<br>
+---
 
-> 🇬🇧 An asynchronous media automation pipeline designed to ingest, process, and align broadcast audio streams with textual transcription data in real time, accelerating newsroom publishing cycles through AI-driven speech recognition, automated file monitoring, and background media orchestration.
-> 
-> 🇹🇷 Yayın ve haber merkezi iş akışlarındaki ses akışlarını yapay zekâ destekli konuşma tanıma modelleriyle metin verilerine dönüştürüp senkronize eden, dosya dizinlerini arka planda asenkron olarak izleyerek sayfa ve medya üretim süreçlerini otomatik ve sıfır gecikmeyle hızlandıran veri işleme hattı.
+#### ⚙️ AutoSync — Automated Media Processing & Audio-Text Synchronization Pipeline
+`Python` • `AsyncIO` • `OpenAI Whisper` • `FFmpeg` • `Watchdog`
 
-</details>
+| 🇬🇧 English Specification | 🇹🇷 Türkçe Açıklama |
+| :--- | :--- |
+| An asynchronous media automation pipeline designed to ingest, process, and align broadcast audio streams with textual transcription data in real time, accelerating newsroom publishing cycles through AI-driven speech recognition, automated file monitoring, and background media orchestration. | Yayın ve haber merkezi iş akışlarındaki ses akışlarını yapay zekâ destekli konuşma tanıma modelleriyle metin verilerine dönüştürüp senkronize eden, dosya dizinlerini arka planda asenkron olarak izleyerek sayfa ve medya üretim süreçlerini otomatik ve sıfır gecikmeyle hızlandıran veri işleme hattı. |
 
-<details open>
-<summary><b>🔹 NEXUS — Enterprise IT Asset & Internal Helpdesk Suite</b> <code>Next.js 16</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Tailwind CSS v4</code> <code>Framer Motion</code> <code>JWT</code></summary>
-<br>
+---
 
-> 🇬🇧 A private enterprise web platform built for internal IT departments to streamline peer-to-peer ticketing and task delegation, manage end-to-end hardware asset lifecycles, handle employee equipment assignments with printable handover protocols, and maintain a secure corporate knowledge base containing server credentials and documentation.
-> 
-> 🇹🇷 BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu.
+#### 🔹 NEXUS — Enterprise IT Asset & Internal Helpdesk Suite
+`Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
 
-</details>
+| 🇬🇧 English Specification | 🇹🇷 Türkçe Açıklama |
+| :--- | :--- |
+| A private enterprise web platform built for internal IT departments to streamline peer-to-peer ticketing and task delegation, manage end-to-end hardware asset lifecycles, handle employee equipment assignments with printable handover protocols, and maintain a secure corporate knowledge base containing server credentials and documentation. | BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu. |
