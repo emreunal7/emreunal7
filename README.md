@@ -69,21 +69,25 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-### ⚡ Production Systems & Architectures
+### 💻 `systemctl status enterprise-projects.d`
 
-> Private corporate codebase — highlighted by operational impact:
+> `[ACCESS: PRIVATE_REPO]` — Architectural briefs of proprietary software:
 
-#### 🔹 IT-Line
-* **Problem & Solution:** Manual ticket filing slowed IT response times. Built a standalone desktop client enabling 1-click tickets with voice notes and instant RustDesk intervention.
-* **TR:** BT destek süreçlerini hızlandırmak için sesli not, anlık ekran yakalama ve tek tıkla uzak masaüstü bağlantısı sunan istemci-sunucu masaüstü çözümü.
-* **Tech:** `Python` · `PyQt6` · `SQLite` · `RustDesk API`
+#### 🟢 `it-line.service` — In-House Desktop Helpdesk
+* **Overview:** Seamless issue reporting with real-time screen captures, audio logs, and native remote desktop tunneling.
+* **Özet:** Çalışanların anlık görsel/sesli kayıtla talep açabildiği ve yerleşik RustDesk ile doğrudan uzaktan yönetilebilen IT istemcisi.
+* **Stack:** `Python` • `PyQt6` • `SQL` • `RustDesk`
 
-#### 🔹 AutoSync
-* **Problem & Solution:** Manual audio transcription choked newsroom publishing cycles. Engineered an async pipeline automating speech-to-text sync in the background.
-* **TR:** Haber merkezi ses akışlarını yapay zeka ile otomatik metne çeviren, dosya hareketlerini arka planda dinleyerek yayın hızını artıran asenkron veri işleme hattı.
-* **Tech:** `Python` · `AsyncIO` · `Whisper` · `FFmpeg` · `Watchdog`
+---
 
-#### 🔹 NEXUS
-* **Problem & Solution:** Decentralized inventory and untracked equipment handovers created administrative friction. Developed a unified web suite for asset tracking, official handovers, and IT knowledge base.
-* **TR:** Dağınık envanter ve takip edilemeyen zimmetleri tek çatıya toplayan; tutanak çıktılı varlık yönetimi, şifre kasası ve operasyon paneli.
-* **Tech:** `Next.js 16` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS v4`
+#### 🟢 `autosync.service` — Broadcast Media Processing Pipeline
+* **Overview:** Event-driven asynchronous pipeline processing live newsroom audio into structured text via background orchestration.
+* **Özet:** Medya akışlarını arka planda otomatik izleyip Whisper modelleriyle metinle senkronize eden sıfır gecikmeli veri hattı.
+* **Stack:** `Python` • `AsyncIO` • `OpenAI Whisper` • `FFmpeg` • `Watchdog`
+
+---
+
+#### 🟢 `nexus.service` — Enterprise Operations & Asset Engine
+* **Overview:** Unified core for internal ticketing, verifiable asset handover protocols, and secure infrastructure vault.
+* **Özet:** Görev atamaları, resmi tutanaklı donanım envanter yönetimi ve şifre kasasını birleştiren kurumsal platform.
+* **Stack:** `Next.js 16` • `TypeScript` • `PostgreSQL` • `Tailwind CSS v4` • `Prisma`
