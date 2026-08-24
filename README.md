@@ -69,35 +69,21 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-### 🚀 What I Build / Neler Geliştiriyorum
+### ⚡ Production Systems & Architectures
 
-> Most of this lives in private/corporate repositories — so here's what it does, rather than a link. 
-> *Bu çalışmaların çoğu özel/kurumsal repolarda; o yüzden link yerine ne yaptıklarını anlatıyorum.*
+> Private corporate codebase — highlighted by operational impact:
 
-🎧 **IT-Line — In-House Desktop Helpdesk & Remote Support Ecosystem** 
-<br>
-🇬🇧 A client-server corporate desktop application enabling company employees to effortlessly submit IT support tickets with real-time screen captures and voice memos, featuring embedded RustDesk integration for instant remote desktop assistance.
-<br>
-<br>
-🇹🇷 Şirket çalışanlarının anlık ekran görüntüleri ve ses kayıtlarıyla hızlıca IT destek talebi oluşturabildiği, yerleşik RustDesk entegrasyonu sayesinde BT ekibinin tek tıkla uzak masaüstü bağlantısı kurmasını sağlayan istemci-sunucu mimarili masaüstü uygulaması.
+#### 🔹 IT-Line
+* **Problem & Solution:** Manual ticket filing slowed IT response times. Built a standalone desktop client enabling 1-click tickets with voice notes and instant RustDesk intervention.
+* **TR:** BT destek süreçlerini hızlandırmak için sesli not, anlık ekran yakalama ve tek tıkla uzak masaüstü bağlantısı sunan istemci-sunucu masaüstü çözümü.
+* **Tech:** `Python` · `PyQt6` · `SQLite` · `RustDesk API`
 
-`Python` • `PyQt6` • `SQL` • `RustDesk`
+#### 🔹 AutoSync
+* **Problem & Solution:** Manual audio transcription choked newsroom publishing cycles. Engineered an async pipeline automating speech-to-text sync in the background.
+* **TR:** Haber merkezi ses akışlarını yapay zeka ile otomatik metne çeviren, dosya hareketlerini arka planda dinleyerek yayın hızını artıran asenkron veri işleme hattı.
+* **Tech:** `Python` · `AsyncIO` · `Whisper` · `FFmpeg` · `Watchdog`
 
-⚙️ **AutoSync — Automated Media Processing & Audio-Text Synchronization Pipeline**
-<br>
-🇬🇧 An asynchronous media automation pipeline designed to ingest, process, and align broadcast audio streams with textual transcription data in real time, accelerating newsroom publishing cycles through AI-driven speech recognition, automated file monitoring, and background media orchestration.
-<br>
-<br>
-🇹🇷 Yayın ve haber merkezi iş akışlarındaki ses akışlarını yapay zekâ destekli konuşma tanıma modelleriyle metin verilerine dönüştürüp senkronize eden, dosya dizinlerini arka planda asenkron olarak izleyerek sayfa ve medya üretim süreçlerini otomatik ve sıfır gecikmeyle hızlandıran veri işleme hattı.
-
-`Python` • `AsyncIO` • `OpenAI Whisper` • `FFmpeg` • `Watchdog`
-
-
-🔹 **NEXUS — Enterprise IT Asset & Internal Helpdesk Suite**
-<br>
-🇬🇧 A private enterprise web platform built for internal IT departments to streamline peer-to-peer ticketing and task delegation, manage end-to-end hardware asset lifecycles, handle employee equipment assignments with printable handover protocols, and maintain a secure corporate knowledge base containing server credentials and documentation.
-<br>
-<br>
-🇹🇷 BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu.
-
-`Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
+#### 🔹 NEXUS
+* **Problem & Solution:** Decentralized inventory and untracked equipment handovers created administrative friction. Developed a unified web suite for asset tracking, official handovers, and IT knowledge base.
+* **TR:** Dağınık envanter ve takip edilemeyen zimmetleri tek çatıya toplayan; tutanak çıktılı varlık yönetimi, şifre kasası ve operasyon paneli.
+* **Tech:** `Next.js 16` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS v4`
