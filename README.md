@@ -8,7 +8,7 @@
 
 <div style="border-left: 3px solid #30363d; padding-left: 12px; display: inline-block; text-align: center;">
   
-### ⚡ **Engineering system architectures, physical & cloud server operations, and backend automation pipelines.**
+###  **Engineering system architectures, physical & cloud server operations, and backend automation pipelines.**
 *Fiziksel sunucu/ağ altyapılarından backend servislerine, asenkron otomasyonlardan kurumsal yazılımlara uçtan uca sistemler geliştiriyorum.*
 
 </div>
