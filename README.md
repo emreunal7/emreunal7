@@ -2,7 +2,7 @@
 
 # Emre Ünal
 ### **Software Engineer & Systems Developer**
-*Yazılım Mühendisi / Geliştiricisi*
+*Yazılım Uzmanı & Sistem Geliştiricisi*
 
 ---
 
