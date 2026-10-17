@@ -21,7 +21,7 @@
 
 <div style="border-left: 4px solid #30363d; padding-left: 15px; margin: 10px 0;">
 
-🇬🇧 **Software Engineer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow involves developing various back-end services, creating system automations, building internal tools, and deploying scalable projects(private) via GitHub.
+🇬🇧 **Software Engineer** at **Sözcü & Tavır & Korkusuz**. Beyond core IT operations, I architect back-end workflows, engineer automation pipelines, and build custom internal software solutions. Currently pursuing my degree in Computer Programming at **İstanbul Kültür Üniversitesi**. My daily workflow involves developing various back-end services, creating system automations, building internal tools, and deploying scalable projects (private) via GitHub.
 
 <br>
 
