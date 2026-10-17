@@ -25,7 +25,7 @@
 
 <br>
 
-🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım Uzmanı & Sistem Geliştiricisi** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde çeşitli backend servisleri kodlamak, sistem otomasyonları oluşturmak, kurum içi araçlar tasarlamak ve projeleri(özel) GitHub üzerinden yayınlamak yer alıyor.
+🇹🇷 **Sözcü & Tavır & Korkusuz** bünyesinde **Yazılım Uzmanı & Sistem Geliştiricisi** olarak görev yapıyorum. IT operasyonlarının ötesinde; süreçleri hızlandıran otomasyon yazılımları geliştiriyor, backend iş akışları tasarlıyor ve özel kurum içi çözümler üretiyorum. Aynı zamanda **İstanbul Kültür Üniversitesi**'nde Bilgisayar Programcılığı eğitimime devam ediyorum. Günlük geliştirme süreçlerimde çeşitli backend servisleri kodlamak, sistem otomasyonları oluşturmak, kurum içi araçlar tasarlamak ve projeleri (özel) GitHub üzerinden yayınlamak yer alıyor.
 
 </div>
 
