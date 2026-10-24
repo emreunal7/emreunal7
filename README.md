@@ -1,8 +1,7 @@
 <div align="center">
 
 # Emre Ünal
-### **Software Engineer & Systems Developer**
-*Yazılım Uzmanı & Sistem Geliştiricisi*
+### **Software Developer**
 
 ---
 
