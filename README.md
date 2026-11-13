@@ -86,7 +86,6 @@
 
 <br>
 
-<br>
 
 🇹🇷 Şirket çalışanlarının anlık ekran görüntüleri ve ses kayıtlarıyla hızlıca IT destek talebi oluşturabildiği, yerleşik RustDesk entegrasyonu sayesinde BT ekibinin tek tıkla uzak masaüstü bağlantısı kurmasını sağlayan istemci-sunucu mimarili masaüstü uygulaması.
 
@@ -104,7 +103,6 @@
 
 <br>
 
-<br>
 
 🇹🇷 Yayın ve haber merkezi iş akışlarındaki ses akışlarını yapay zekâ destekli konuşma tanıma modelleriyle metin verilerine dönüştürüp senkronize eden, dosya dizinlerini arka planda asenkron olarak izleyerek sayfa ve medya üretim süreçlerini otomatik ve sıfır gecikmeyle hızlandıran veri işleme hattı.
 
@@ -124,7 +122,6 @@
 
 <br>
 
-<br>
 
 🇹🇷 BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu.
 
@@ -134,9 +131,11 @@
 
 
 🛡️ SLA-SYSTEM Enterprise Multi-Tenant Helpdesk & Service-Level Governance Engine
+<br>
 
 🇬🇧 A modular, multi-tenant B2B customer support platform and service-level agreement (SLA) governance engine designed for seamless integration across diverse enterprise ecosystems. Built with complete tenant data isolation and customizable ticket routing, it features an intelligent time-tracking engine that dynamically calculates response and resolution deadlines against business hours, custom timezones, official holidays, and 24/7 mission-critical thresholds—backed by immutable chronological event audit trails and role-based incident workflows.
 
+<br>
 🇹🇷 Farklı sektör ve kurumsal iş modellerine kolayca adapte edilebilen, yüksek entegrasyon kabiliyetine sahip çok kiracılı (multi-tenant) B2B müşteri destek ve hizmet seviyesi (SLA) yönetim platformu. Her kuruma tam veri izolasyonlu portallar ve özel bilet kodları sunarken; mesai saatleri, zaman dilimleri, resmi tatiller ve 7/24 kritik operasyonları anlık hesaplayan dinamik SLA motoru, değişmez kronolojik denetim kayıtları (audit log) ve rol tabanlı olay iş akışlarıyla kurumsal taahhütlerin eksiksiz izlenmesini sağlar.
 
 `Next.js 16` • `TypeScript` • `Prisma` • `PostgreSQL` • `Auth.js (NextAuth v5)` • `Tailwind CSS v4` • `Zod` • `Vitest`
