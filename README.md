@@ -124,7 +124,7 @@
 🇹🇷 BT (IT) departmanlarının teknik arızaları ve görevleri ekip içinde birbirine atayarak takip edebildiği, donanım envanterinin tüm yaşam döngüsünü yönettiği, resmi tutanak çıktılı personel zimmet süreçlerini yürüttüğü; sunucu, şifre kasası ve dahili dokümanları barındıran kurumsal bilgi bankasını tek merkezde toplayan kapalı kaynak web platformu.
 
 
-`Next.js 16` • ` React 19` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
+`Next.js 16` • `React 19` • `TypeScript` • `Prisma` • `PostgreSQL` • `Tailwind CSS v4` • `Framer Motion` • `JWT`
 
 
 
@@ -138,4 +138,4 @@
 
 🇹🇷 Farklı sektör ve kurumsal iş modellerine kolayca adapte edilebilen, yüksek entegrasyon kabiliyetine sahip çok kiracılı (multi-tenant) B2B müşteri destek ve hizmet seviyesi (SLA) yönetim platformu. Her kuruma tam veri izolasyonlu portallar ve özel bilet kodları sunarken; mesai saatleri, zaman dilimleri, resmi tatiller ve 7/24 kritik operasyonları anlık hesaplayan dinamik SLA motoru, değişmez kronolojik denetim kayıtları (audit log) ve rol tabanlı olay iş akışlarıyla kurumsal taahhütlerin eksiksiz izlenmesini sağlar.
 
-`Next.js 16` • ` React 19` • `TypeScript` • `Prisma` • `PostgreSQL` • `Auth.js (NextAuth v5)` • `Tailwind CSS v4` • `Zod` • `Vitest`
+`Next.js 16` • `React 19` • `TypeScript` • `Prisma` • `PostgreSQL` • `Auth.js (NextAuth v5)` • `Tailwind CSS v4` • `Zod` • `Vitest`
